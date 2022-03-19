@@ -1,0 +1,18 @@
+{
+    "name": "galib/array-object",
+    "description": "Display array objects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rabib Galib",
+            "email": "galib.rabib@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable" : true,
+    "autoload": {
+        "psr-4": {"galib\\ArrayService\\": "src/"}
+    },
+    "require": {}
+}
