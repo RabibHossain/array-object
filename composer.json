@@ -9,7 +9,7 @@
             "email": "galib.rabib@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable" : true,
     "autoload": {
         "psr-4": {"galib\\ArrayService\\": "src/"}
